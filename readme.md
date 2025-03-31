@@ -57,7 +57,7 @@ Got it! Here's how you can structure it with a concise message:
 
 ---
 
-## 🔗 [Get Full Source Code](URL_TO_YOUR_REPO)
+## 🔗 [Get Full Source Code](https://github.com/NithishKoriyar/LPN_Socket)
 
 ## 🌟 If you find this project helpful or interesting, please consider giving it a star! 🌟
 
